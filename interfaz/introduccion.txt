@@ -1,0 +1,7 @@
+En Java los datos se representan en objetos. Sin embargo, las bases de datos habituales (como MySQL, PostgreSQL, Oracle) guardan sus datos en forma relacional. Evidentemente existe una brecha entre estos dos mundos ("objetos-relacional") que, de alguna manera, debe completarse.
+
+JPA
+Java Persistence API (JPA) es un framework que forma parte de Java, y ofrece un conjunto de interfaces y APIs para resolver el problema del almacenamiento de los objetos en una base de datos relacional
+
+Hibernate
+Existen varios ORM en el mercado que implementan JPA, si bien Hibernate es el ORM que se convirtió en un estandard-de-facto. Hibernate entonces es un ORM que implementa JPA.
